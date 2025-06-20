@@ -1,0 +1,65 @@
+[
+  {
+    "objectID": "home.html",
+    "href": "home.html",
+    "title": "Homepage",
+    "section": "",
+    "text": "Text…"
+  },
+  {
+    "objectID": "home.html#to-preview-this-page",
+    "href": "home.html#to-preview-this-page",
+    "title": "Homepage",
+    "section": "",
+    "text": "quarto preview\nor the keyboard shortcut Ctrl/Cmd + Shift + K."
+  },
+  {
+    "objectID": "content/france_2023.html",
+    "href": "content/france_2023.html",
+    "title": "My Trip to France 2023",
+    "section": "",
+    "text": "Text…"
+  },
+  {
+    "objectID": "content/france_2023.html#highlights",
+    "href": "content/france_2023.html#highlights",
+    "title": "My Trip to France 2023",
+    "section": "Highlights",
+    "text": "Highlights\nText…"
+  },
+  {
+    "objectID": "content/france_2023.html#conclusion",
+    "href": "content/france_2023.html#conclusion",
+    "title": "My Trip to France 2023",
+    "section": "Conclusion",
+    "text": "Conclusion\nText…"
+  },
+  {
+    "objectID": "about.html",
+    "href": "about.html",
+    "title": "Who I Am",
+    "section": "",
+    "text": "About Me"
+  },
+  {
+    "objectID": "content/italy_2022.html",
+    "href": "content/italy_2022.html",
+    "title": "My Trip to Italy 2022",
+    "section": "",
+    "text": "Text…"
+  },
+  {
+    "objectID": "content/italy_2022.html#highlights",
+    "href": "content/italy_2022.html#highlights",
+    "title": "My Trip to Italy 2022",
+    "section": "Highlights",
+    "text": "Highlights\nText…"
+  },
+  {
+    "objectID": "content/italy_2022.html#conclusion",
+    "href": "content/italy_2022.html#conclusion",
+    "title": "My Trip to Italy 2022",
+    "section": "Conclusion",
+    "text": "Conclusion\nText…"
+  }
+]
